@@ -98,305 +98,511 @@ Object.freeze(window.sendVipRequest);
 // PRODUCTS
 // =====================================================
 const products = [
+
   {
-    title: "RAPE TEENS HD",
-    video: "https://dev-bitly-stripe-cxpppp.pantheonsite.io/wp-content/uploads/2026/08/IMG_3546.mp4",
-    desc: "* MORE THAN 409 VIDEOS 7.5GB IN TOTAL MY COMPLETE FOLDER",
+    title: "MOM AND SON",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/1.mp4",
+    desc: "MOM AND SON GET FUCKED BEST STUFF 30GB.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
     proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
     proofCaption: "Sales proof",
     freeLink: "",
-    views: 1694,
+    // =====================================================
+    // PRODUCT 2 OF 37
+    // =====================================================
+    views: 1747,
   },
-
   {
-    title: "🔥FULL CP GAY 🥵",
-    video: "https://files.catbox.moe/l0knrj.mp4",
-    desc: "* MORE THAN 600 VIDEOS 15GB IN TOTAL MY COMPLETE FOLDER",
-    chips: ["10GB+", "NOVO", "EXCLUSIVO"],
-    badges: [{ label: "🚀 TRENDING", cls: "hot" }, { label: "✅ VERIFIED", cls: "new" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 2259,
-  },
-
-  {
-    title: "TEENS 13-17",
-    video: "https://dev-bitly-terra-cpppp.pantheonsite.io/wp-content/uploads/2026/08/cWfA3.mp4",
-    desc: "* MORE THAN 320 VIDEOS 10GB IN TOTAL MY COMPLETE FOLDER",
-    chips: ["5GB+", "TRENDING", "FRESH"],
-    badges: [{ label: "⚡ INSTANT", cls: "new" }, { label: "🏆 BEST VALUE", cls: "bestseller" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 1846,
-  },
-
-  {
-    title: "🔥FULL CP",
-    video: "https://files.catbox.moe/4d4am8.mp4",
-    desc: "* 🔥 PREMIUM CONTENT BUNDLE 🔥",
-    chips: ["12GB+", "FEATURED", "BEST"],
-    badges: [{ label: "💎 VIP", cls: "premium" }, { label: "🚀 NEW DROP", cls: "new" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 1981,
-  },
-
-  {
-    title: "NEW PREMIUM CP",
-    video: "https://dev-bitly-stripe-cxpppp.pantheonsite.io/wp-content/uploads/2026/08/jbjfj9.mp4",
-    desc: "* CP NEW PREMIUM",
+    title: "AMELIA BLONDE",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/2.mp4",
+    desc: "50GB REAL GIRL , SEX AND CP.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
     proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
     proofCaption: "Sales proof",
     freeLink: "",
-    views: 1618,
+    // =====================================================
+    // PRODUCT 3 OF 37
+    // =====================================================
+    views: 830,
   },
-
   {
-    title: "DESIREE GARCIA",
-    video: "https://files.catbox.moe/wf2dw9.mp4",
-    desc: "* MORE THAN 200 VIDEOS 5.2GB IN TOTAL MY COMPLETE FOLDER",
-    chips: ["10GB+", "NOVO", "EXCLUSIVO"],
-    badges: [{ label: "🚀 TRENDING", cls: "hot" }, { label: "✅ VERIFIED", cls: "new" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 2208,
-  },
-
-  {
-    title: "HOT CP",
-    video: "https://dev-cp-promo-click.pantheonsite.io/wp-content/uploads/2026/06/HMM-Lea-and-Rona-Xmas-1.mp4",
-    desc: "* 🔥 MORE THAN 250 VIDEOS! 🔥 📁 6.59GB of exclusive content ✅ Complete and well-organized folder 💎 Premium quality content 🎬 Instant access for the best experience!",
-    chips: ["5GB+", "TRENDING", "FRESH"],
-    badges: [{ label: "⚡ INSTANT", cls: "new" }, { label: "🏆 BEST VALUE", cls: "bestseller" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 2001,
-  },
-
-  {
-    title: "EXCLUSIVE CP",
-    video: "https://files.catbox.moe/5cmcqx.mp4",
-    desc: "* MORE THAN 400 VIDEOS 6GB IN TOTAL MY COMPLETE FOLDER",
-    chips: ["8GB+", "VERIFIED", "INSTANT"],
-    badges: [{ label: "🌟 FEATURED", cls: "premium" }, { label: "🔥 HOT", cls: "hot" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 1293,
-  },
-
-  {
-    title: "CP PARADISE",
-    video: "https://dev-bitly-stripe-cxpppp.pantheonsite.io/wp-content/uploads/2026/08/paradise1.mp4",
-    desc: "* MORE THAN 203 Videos 2GB IN TOTAL",
-    chips: ["25GB+", "VIP", "POPULAR"],
-    badges: [{ label: "🎯 POPULAR", cls: "bestseller" }, { label: "⚡ FAST", cls: "hot" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 939,
-  },
-
-  {
-    title: "BOYS",
-    video: "https://files.catbox.moe/y3yfx7.mp4",
-    desc: "* MORE THAN 500 VIDEOS 8.25GB IN TOTAL MY COMPLETE FOLDER",
-    chips: ["15GB+", "PREMIUM", "VIP"],
-    badges: [{ label: "⭐ TOP SELLER", cls: "bestseller" }, { label: "💎 PREMIUM", cls: "premium" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 818,
-  },
-
-  {
-    title: "BLACK CP",
-    video: "https://dev-cp-promo-click.pantheonsite.io/wp-content/uploads/2026/06/VID_20260515_101919_501.mp4",
-    desc: "* MORE THAN 700 VIDEOS 8GB IN TOTAL MY COMPLETE FOLDER",
-    chips: ["20GB+", "TOP", "2026"],
-    badges: [{ label: "💥 EXCLUSIVE", cls: "hot" }, { label: "🔑 VIP", cls: "premium" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 1131,
-  },
-
-  {
-    title: "🔥MIX TEENS",
-    video: "https://files.catbox.moe/4ugkm1.mp4",
-    desc: "* MORE THAN 200+ VIDEOS 5.5GB IN TOTAL MY COMPLETE FOLDER",
-    chips: ["8GB+", "VERIFIED", "INSTANT"],
-    badges: [{ label: "🌟 FEATURED", cls: "premium" }, { label: "🔥 HOT", cls: "hot" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 1318,
-  },
-
-  {
-    title: "✅C#P IND COLLETION🔥",
-    video: "https://files.catbox.moe/loetp6.mp4",
-    desc: "* Premium quality content<br>* Instant access for the best experience!<br>* Well-organized files",
-    chips: ["25GB+", "VIP", "POPULAR"],
-    badges: [{ label: "🎯 POPULAR", cls: "bestseller" }, { label: "⚡ FAST", cls: "hot" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 2246,
-  },
-
-  {
-    title: "INCEST LIZZY AND BRO",
-    video: "https://files.catbox.moe/w8nsn0.mp4",
-    desc: "* Premium quality content<br>* Instant access for the best experience!<br>* Well-organized files",
+    title: "ALL TEENS 1TB",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/3.mp4",
+    desc: "MOORE THAN 120.000 FILES OF TEENS RARE.",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
     proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
     proofCaption: "Sales proof",
     freeLink: "",
-    views: 608,
+    // =====================================================
+    // PRODUCT 4 OF 37
+    // =====================================================
+    views: 277,
   },
-
   {
-    title: "AMERICAN TEENS",
-    video: "https://files.catbox.moe/fd94bm.mp4",
-    desc: "* MORE THAN 279 VIDEOS 8.5GB IN TOTAL MY COMPLETE FOLDER",
-    chips: ["15GB+", "PREMIUM", "VIP"],
-    badges: [{ label: "⭐ TOP SELLER", cls: "bestseller" }, { label: "💎 PREMIUM", cls: "premium" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 1150,
-  },
-
-  {
-    title: "PREMIUM CP - PEDO MOM",
-    video: "https://files.catbox.moe/btp4bv.mp4",
-    desc: "* PREMIUM CP PEDOM",
-    chips: ["20GB+", "TOP", "2026"],
-    badges: [{ label: "💥 EXCLUSIVE", cls: "hot" }, { label: "🔑 VIP", cls: "premium" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 1804,
-  },
-
-  {
-    title: "MOM AND SON CP🔥",
-    video: "https://files.catbox.moe/ld25nz.mp4",
-    desc: "* MOM AND SON CP AVAILABLE",
-    chips: ["8GB+", "VERIFIED", "INSTANT"],
-    badges: [{ label: "🌟 FEATURED", cls: "premium" }, { label: "🔥 HOT", cls: "hot" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 2302,
-  },
-
-  {
-    title: "FATHER AND DAUGHTER CP",
-    video: "https://dev-bitly-stripe-cxpppp.pantheonsite.io/wp-content/uploads/2026/08/father1.mp4",
-    desc: "* FATHER AND DAUGHTER",
-    chips: ["25GB+", "VIP", "POPULAR"],
-    badges: [{ label: "🎯 POPULAR", cls: "bestseller" }, { label: "⚡ FAST", cls: "hot" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 790,
-  },
-
-  {
-    title: "🔥C#P 9-13 PEDO FATHER🔥",
-    video: "https://dev-cp-promo-click.pantheonsite.io/wp-content/uploads/2026/06/VID_20260424_142458_211-1.mp4",
-    desc: "* MORE THAN 100 VIDEOS",
-    chips: ["15GB+", "PREMIUM", "VIP"],
-    badges: [{ label: "⭐ TOP SELLER", cls: "bestseller" }, { label: "💎 PREMIUM", cls: "premium" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 1240,
-  },
-
-  {
-    title: "🔥C#P BRO AND SIS🔥",
-    video: "https://files.catbox.moe/cqqy24.mp4",
-    desc: "* SIS AND BRO",
-    chips: ["20GB+", "TOP", "2026"],
-    badges: [{ label: "💥 EXCLUSIVE", cls: "hot" }, { label: "🔑 VIP", cls: "premium" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 1299,
-  },
-
-  {
-    title: "✅AMELIA BLONDE🔥",
-    video: "https://files.catbox.moe/ddpfmo.mp4",
-    desc: "* Amelia Teen Leaks",
-    chips: ["5GB+", "TRENDING", "FRESH"],
-    badges: [{ label: "⚡ INSTANT", cls: "new" }, { label: "🏆 BEST VALUE", cls: "bestseller" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 1346,
-  },
-
-  {
-    title: "HIGH SCHOOL THOTS🔥",
-    video: "https://files.catbox.moe/gvt7hf.mov",
-    desc: "* Premium quality content<br>* Instant access for the best experience!<br>* Well-organized files",
-    chips: ["8GB+", "VERIFIED", "INSTANT"],
-    badges: [{ label: "🌟 FEATURED", cls: "premium" }, { label: "🔥 HOT", cls: "hot" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 1715,
-  },
-
-  {
-    title: "T33NS LEAKS FOLDER📁",
-    video: "https://files.catbox.moe/sbivmg.mp4",
-    desc: "* 5GB IN TOTAL",
-    chips: ["25GB+", "VIP", "POPULAR"],
-    badges: [{ label: "🎯 POPULAR", cls: "bestseller" }, { label: "⚡ FAST", cls: "hot" }],
-    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
-    proofCaption: "Sales proof",
-    freeLink: "",
-    views: 437,
-  },
-
-  {
-    title: "🔥ENGLISH TEENS🥵",
-    video: "https://files.catbox.moe/w48saq.mp4",
-    desc: "* OVER 500 VIDEOS 5.19GB IN TOTAL MORE THAN 200 BLACKMAIL VIDEOS Incest MY COMPLETE FOLDER",
+    title: "RAPE TEEN",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/4.mp4",
+    desc: "RARE RAPE TEEN / 20GB NEW STUFF .",
     chips: ["7GB+", "HOT", "2025"],
     badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
     proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
     proofCaption: "Sales proof",
     freeLink: "",
-    views: 1617,
+    // =====================================================
+    // PRODUCT 5 OF 37
+    // =====================================================
+    views: 396,
   },
-
   {
-    title: "ALL CONTENT+VIP GROUP",
-    video: "https://dev-bitly-stripe-cxpppp.pantheonsite.io/wp-content/uploads/2026/08/VIP-CHANNEL-1536x864-1.jpg",
-    desc: "* MORE THAN 6TB OF MEGA FOLDER",
-    chips: ["10GB+", "NOVO", "EXCLUSIVO"],
-    badges: [{ label: "🚀 TRENDING", cls: "hot" }, { label: "✅ VERIFIED", cls: "new" }],
+    title: "OMEGLE FULL",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/5.mp4",
+    desc: "MORE THAN 120GB.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
     proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
     proofCaption: "Sales proof",
     freeLink: "",
-    views: 2042,
-  }
+    // =====================================================
+    // PRODUCT 6 OF 37
+    // =====================================================
+    views: 1141,
+  },
+  {
+    title: "HIGH SCHOOL TEEN",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/IMG_0969.mp4",
+    desc: "HIGH SCHOOL MORE THAN 35GB.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 7 OF 37
+    // =====================================================
+    views: 1132,
+  },
+  {
+    title: "ALL CONTENT 30TB",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/7.mp4",
+    desc: "",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 8 OF 37
+    // =====================================================
+    views: 1501,
+  },
+  {
+    title: "LIZZY AND BRO",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/8.mp4",
+    desc: "MORE THAN 45GB.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 9 OF 37
+    // =====================================================
+    views: 891,
+  },
+  {
+    title: "CP 1",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/9.mp4",
+    desc: "BEST CP MORE THAN 25GB.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 10 OF 37
+    // =====================================================
+    views: 617,
+  },
+  {
+    title: "CP 3",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/10.mp4",
+    desc: "MORE THAN 30GB.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 11 OF 37
+    // =====================================================
+    views: 1471,
+  },
+  {
+    title: "PREMIUM VIP 8-17🔥",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/11.mp4",
+    desc: "MORE THAN 1590 VIDEOS.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 12 OF 37
+    // =====================================================
+    views: 1078,
+  },
+  {
+    title: "DESIRE GARCIA",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/12.mp4",
+    desc: "MORE THAN 30GB.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 13 OF 37
+    // =====================================================
+    views: 1905,
+  },
+  {
+    title: "INAVAK AND BRO",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/13.mp4",
+    desc: "MORE THAN 45GB.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 14 OF 37
+    // =====================================================
+    views: 1667,
+  },
+  {
+    title: "ALL CP 2TB",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/14.mp4",
+    desc: "ALL 40 CP FOLDERS RARE AND ALL VIP GROUP.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 15 OF 37
+    // =====================================================
+    views: 930,
+  },
+  {
+    title: "AYUMI TEEN",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/15.mp4",
+    desc: "POSI LEAKS BEST TEEN MORE THAN 20GB.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 16 OF 37
+    // =====================================================
+    views: 266,
+  },
+  {
+    title: "AVA SHIT",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/16.mp4",
+    desc: "SNAPGOD SHIT MORE THAN 30GB.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 17 OF 37
+    // =====================================================
+    views: 676,
+  },
+  {
+    title: "13-17 TEEN",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/17.mp4",
+    desc: "MORE THAN 5900 VIDEOS.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 18 OF 37
+    // =====================================================
+    views: 503,
+  },
+  {
+    title: "DARKZEID",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/18.mp4",
+    desc: "FRESH LEAKS FROM 2026 – 35GB OF EXCLUSIVE CONTENT.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 19 OF 37
+    // =====================================================
+    views: 1655,
+  },
+  {
+    title: "IZZY ZOO",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/19.mp4",
+    desc: "MEGA PACK IZZY AND DOG – 80GB.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 20 OF 37
+    // =====================================================
+    views: 966,
+  },
+  {
+    title: "SNAPGOD FULL",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/20.mp4",
+    desc: "ULTRA HD SNAPGOD COLLECTION – 530GB.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 21 OF 37
+    // =====================================================
+    views: 565,
+  },
+  {
+    title: "EMMI SELLERS",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/21.mp4",
+    desc: "BEST TEENS – 25GB.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 22 OF 37
+    // =====================================================
+    views: 784,
+  },
+  {
+    title: "TEENS CP",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/22.mp4",
+    desc: "REAL CP LEAKS – 40GB OF INTIMATE CONTENT.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 23 OF 37
+    // =====================================================
+    views: 709,
+  },
+  {
+    title: "NEW STUFF PYT",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/23.mp4",
+    desc: "TOP 114 FOLDERS OF TEENS – 300GB.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 24 OF 37
+    // =====================================================
+    views: 1408,
+  },
+  {
+    title: "CP FATHER DAUGHTER",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/24.mp4",
+    desc: "GOLD EDITION – 60GB OF RARE CP CONTENT.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 25 OF 37
+    // =====================================================
+    views: 672,
+  },
+  {
+    title: "SNAPCHAT LEAKS",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/25.mp4",
+    desc: "SNAPCHAT LEAKS – 200GB OF EXCLUSIVE SNAPS.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 26 OF 37
+    // =====================================================
+    views: 607,
+  },
+  {
+    title: "BABY ASHLEY",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/26.mp4",
+    desc: "TIKTOK STARS LEAKS – 55GB OF HOT CONTENT.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 27 OF 37
+    // =====================================================
+    views: 1409,
+  },
+  {
+    title: "AXIOUS PANDA",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/27.mp4",
+    desc: "500GB MEGA PACK – ALL TEENS, CP, VIP, AND MORE.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 28 OF 37
+    // =====================================================
+    views: 911,
+  },
+  {
+    title: "BLOWJOB",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/29.mp4",
+    desc: "BUNDLE - BLOWJOB MEGA COLLECTION.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 29 OF 37
+    // =====================================================
+    views: 300,
+  },
+  {
+    title: "ANIMAL AND YOUNG GIRLS",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/30.mp4",
+    desc: "BUNDLE - ANIMAL AND YOUNG GIRLS ULTIMATE PACK.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 30 OF 37
+    // =====================================================
+    views: 1918,
+  },
+  {
+    title: "GERMAN TEENS",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/31.mp4",
+    desc: "BUNDLE - GERMAN TEENS EXCLUSIVE VAULT.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 31 OF 37
+    // =====================================================
+    views: 1873,
+  },
+  {
+    title: "ELLE GOODMAN",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/32.mp4",
+    desc: "BUNDLE - ELLE GOODMAN COMPLETE FOLDER.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 32 OF 37
+    // =====================================================
+    views: 1714,
+  },
+  {
+    title: "SKI WHITE TEENS",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/33.mp4",
+    desc: "BUNDLE - SKI WHITE TEENS FULL COLLECTION.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 33 OF 37
+    // =====================================================
+    views: 949,
+  },
+  {
+    title: "SKI LATINA PYT",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/34.mp4",
+    desc: "BUNDLE - SKI LATINA PYT INTENSE PACK.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 34 OF 37
+    // =====================================================
+    views: 1053,
+  },
+  {
+    title: "SKI BLACK PYT",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/35.mp4",
+    desc: "BUNDLE - SKI BLACK PYT RARE FILES.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 35 OF 37
+    // =====================================================
+    views: 694,
+  },
+  {
+    title: "GAY CP YOUNG",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/38.mp4",
+    desc: "BUNDLE - GAY CP YOUNG EXCLUSIVE FILES.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 36 OF 37
+    // =====================================================
+    views: 255,
+  },
+  {
+    title: "BROTHER AND SIS",
+    video: "https://newstuff.jujalllamguuto.workers.dev/assets/videos/39.mp4",
+    desc: "BUNDLE - BROTHER AND SIS BEST FOLDERS.",
+    chips: ["7GB+", "HOT", "2025"],
+    badges: [{ label: "🔥 HOT", cls: "hot" }, { label: "NEW", cls: "new" }],
+    proof: ["/proof/1.jpg", "/proof/2.jpg", "/proof/3.jpg"],
+    proofCaption: "Sales proof",
+    freeLink: "",
+    // =====================================================
+    // PRODUCT 37 OF 37
+    // =====================================================
+    views: 291,
+  },
 ];
 
 // =====================================================
